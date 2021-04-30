@@ -1,9 +1,9 @@
-$ sudo apt-get install trash-cli
-$ alias rm=trash
-$ trash
-$ trash-list
-$ trash-empty
-$ restore-trash
+$ sudo apt-get install trash-cli  
+$ alias rm=trash  
+$ trash  
+$ trash-list  
+$ trash-empty  
+$ restore-trash  
 <!--
 ### Hi there 👋
 
